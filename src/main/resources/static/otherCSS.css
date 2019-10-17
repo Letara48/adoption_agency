@@ -1,0 +1,14 @@
+body.homepagebody{
+    background: url("https://res.cloudinary.com/dvunax54a/image/upload/v1571253303/JavaClass/cat-2823286_960_720_xvvgki.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1, h3 {
+    color: #ffb300;
+}
+th,td {
+
+    color: #ffb300;
+}

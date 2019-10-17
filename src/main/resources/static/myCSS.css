@@ -1,0 +1,13 @@
+body.peoplepets {
+    background: url("https://res.cloudinary.com/dvunax54a/image/upload/v1571252739/JavaClass/skitterphoto-6269-default_z6ccob.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1, h3 {
+     color: #ffb300;
+ }
+
+
+
